@@ -20,7 +20,7 @@ An end-to-end analytics project exploring global food production patterns across
 - **5_Project_Planning_Phase** → Timeline, Gantt chart, risk log
 - **6_Project_Executable_Files** → Power BI dashboard (`.pbix`) and Python scripts
 - **7_Functional_and_Performance_Testing** → Test cases, benchmarks, performance metrics
-- **8_Doc_and_Demo** → Final presentation, walkthrough notes, demo video link
+- **8_Doc_and_Demo** → Final presentation, demo video link
 
 ---
 
